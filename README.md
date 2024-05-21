@@ -1,5 +1,7 @@
 # RayTracer Project
 
+![Example 1](./screenshots/demo_colored_light_5000_1080p.png)
+
 ## Table of Contents
 - [Launching the Program](#launching-the-program)
 - [Adding Primitives and Materials](#adding-primitives-and-materials)
@@ -110,7 +112,8 @@ To launch the program with a graphical user interface, use the `-g` or `--gui` o
 ## Render Examples (Screenshots)
 Here are some examples of images rendered using our RayTracer:
 
-![Example 1](./screenshots/demo_colored_light_5000_1080p.png)
+![Example 1](./screenshots/demo_low_quality_1.png)
+![Example 1](./screenshots/demo_low_quality_2.png)
 ![Example 1](./screenshots/demo_french_chess_2500_1080p.png)
 
 ## Disclaimer
